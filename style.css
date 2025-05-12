@@ -1,1 +1,18 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #111;
+  color: #fff;
+}
+
+h1 {
+  padding: 1rem;
+  font-size: 2rem;
+}
+
+#map {
+  height: 90vh;
+  width: 100%;
+}
 
